@@ -17,10 +17,29 @@
         <jarDirectory url="file://$MODULE_DIR$/../../../__QA/Selenium/Selenium/selenium-java-3.141.59/libs" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../../../__QA/Selenium/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../__QA/Selenium/Selenium/selenium-java-3.141.59/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../__QA/Selenium/Selenium/selenium-java-3.141.59/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../SoftWare/Automation/Selenium/testng-7.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

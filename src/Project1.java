@@ -27,7 +27,7 @@ public class Project1 {
 //        System.out.println("Title verified!");
 
 
-        System.out.println("-------------------------1-----------------------");
+
 
        driver.findElement(By.id("hideLogin")).click();
 
